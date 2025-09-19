@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                            MultiSymbolVWAP_EA.mq5 |
 //|                        Multi-Symbol VWAP + Volume Profile EA      |
-//|                        Copyright 2025, Christley OLubela          |
+//|                        Copyright 2025, Christley Olubela          |
 //+------------------------------------------------------------------+
 #property copyright "Christley Olubela"
 #property link      "https://x.com/xtley001"
@@ -608,3 +608,4 @@ void OnDeinit(const int reason) {
    ArrayFree(allowed_days);
 
 }
+
