@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-**MultiSymbolVWAP\_EA** is a professional-grade MetaTrader 5 Expert Advisor (EA) that combines **VWAP (Volume Weighted Average Price)**, **Volume Profile analysis**, and **ADR (Average Daily Range)** to execute trades across multiple symbols with institutional-style precision.
+**Multi-Symbol VWAP-Volume Profile EA** is a professional-grade MetaTrader 5 Expert Advisor (EA) that combines **VWAP (Volume Weighted Average Price)**, **Volume Profile analysis**, and **ADR (Average Daily Range)** to execute trades across multiple symbols with institutional-style precision.
 
 This EA is designed for **multi-asset trading**, robust **risk management**, and advanced **trade execution logic**. It automatically manages entries, exits, and trailing stops while incorporating **time filters**, **news filters**, and **drawdown protection**.
 
@@ -147,5 +147,3 @@ This EA is provided **for educational and research purposes only**. Trading leve
 🔗 https://www.linkedin.com/in/christley-olubela/
 
 ---
-
-Would you like me to also create a **workflow diagram** (mermaid or image-based) to visually show how the EA processes signals → executes trades → manages risk? It would make your README even more professional.
