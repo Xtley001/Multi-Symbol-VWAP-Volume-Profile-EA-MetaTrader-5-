@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                            MultiSymbolVWAP_EA.mq5 |
-//|                        Multi-Symbol VWAP + Volume Profile EA       |
-//|                        Copyright 2025, xAI                         |
+//|                        Multi-Symbol VWAP + Volume Profile EA      |
+//|                        Copyright 2025, Christley OLubela          |
 //+------------------------------------------------------------------+
 #property copyright "Christley Olubela"
 #property link      "https://x.com/xtley001"
@@ -606,4 +606,5 @@ void OnDeinit(const int reason) {
    ArrayFree(volume_price_rows);
    ArrayFree(volume_volume_rows);
    ArrayFree(allowed_days);
+
 }
